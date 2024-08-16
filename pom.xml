@@ -18,7 +18,7 @@
   <properties>
     <logback.version>1.5.6</logback.version>
     <slf4j.version>2.0.16</slf4j.version>
-    <temporal.version>1.24.3</temporal.version>
+    <temporal.version>1.25.0</temporal.version>
     <skip.tests>false</skip.tests>
   </properties>
 
